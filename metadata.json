@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Intent Classifier",
+  "description": "A high-performance multilingual support ticket classifier powered by Gemini Flash. Supports 10+ regional languages (Hindi, Marathi, Tulu, etc.) with sentiment analysis, email alerts, and Supabase integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
